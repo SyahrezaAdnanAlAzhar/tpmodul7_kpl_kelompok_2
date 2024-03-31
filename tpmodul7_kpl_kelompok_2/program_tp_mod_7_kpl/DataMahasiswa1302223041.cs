@@ -14,7 +14,7 @@ public class DataMahasiswa1302223041
 
     public void ReadJSON()
     {
-        string filePath = @"tp7_1_1302223041.json";
+        string filePath = "tp7_1_1302223041.json";
 
         string jsonText = File.ReadAllText(filePath);
 
