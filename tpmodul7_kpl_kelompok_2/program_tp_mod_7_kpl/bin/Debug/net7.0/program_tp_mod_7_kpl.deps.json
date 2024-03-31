@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "program_tp_mod_7_kpl/1.0.0": {
+        "runtime": {
+          "program_tp_mod_7_kpl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program_tp_mod_7_kpl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

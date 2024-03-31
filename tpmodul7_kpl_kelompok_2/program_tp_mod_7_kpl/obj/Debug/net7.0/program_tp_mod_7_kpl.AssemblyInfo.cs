@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program_tp_mod_7_kpl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43e1adea570756965c452b386ed8644044e349fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("program_tp_mod_7_kpl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program_tp_mod_7_kpl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

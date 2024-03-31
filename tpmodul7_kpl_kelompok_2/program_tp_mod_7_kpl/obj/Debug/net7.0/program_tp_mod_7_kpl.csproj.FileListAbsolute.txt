@@ -1,0 +1,15 @@
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.exe
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.deps.json
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.runtimeconfig.json
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.dll
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.pdb
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.AssemblyInfoInputs.cache
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.AssemblyInfo.cs
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.csproj.CoreCompileInputs.cache
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.sourcelink.json
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.dll
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\refint\program_tp_mod_7_kpl.dll
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.pdb
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.genruntimeconfig.cache
+C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\ref\program_tp_mod_7_kpl.dll
