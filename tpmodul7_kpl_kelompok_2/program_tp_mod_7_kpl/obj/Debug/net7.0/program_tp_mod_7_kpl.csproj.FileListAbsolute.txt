@@ -13,3 +13,18 @@ C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\n
 C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.pdb
 C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.genruntimeconfig.cache
 C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\ref\program_tp_mod_7_kpl.dll
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.AssemblyInfoInputs.cache
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.AssemblyInfo.cs
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.csproj.CoreCompileInputs.cache
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.sourcelink.json
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.dll
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\refint\program_tp_mod_7_kpl.dll
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.pdb
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.exe
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.deps.json
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.runtimeconfig.json
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.dll
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.pdb
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.genruntimeconfig.cache
+C:\Users\ricky\source\repos\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\ref\program_tp_mod_7_kpl.dll
