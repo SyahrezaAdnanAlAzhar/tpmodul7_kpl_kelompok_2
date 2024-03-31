@@ -21,7 +21,6 @@ internal class KuliahMahasiswa1302223041
         [JsonPropertyName("name")]
         public String name { get; set; }
     }
-    public Course[] Courses { get; set; }
 
     public void ReadJSON()
     {
