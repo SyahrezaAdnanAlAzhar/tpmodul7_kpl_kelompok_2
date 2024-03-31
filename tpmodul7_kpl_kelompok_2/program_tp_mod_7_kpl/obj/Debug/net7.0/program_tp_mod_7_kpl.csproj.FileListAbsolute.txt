@@ -13,3 +13,18 @@ C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\n
 C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.pdb
 C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.genruntimeconfig.cache
 C:\Reza\TEL U\Code\C#\7\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\ref\program_tp_mod_7_kpl.dll
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.exe
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.deps.json
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.runtimeconfig.json
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.dll
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\bin\Debug\net7.0\program_tp_mod_7_kpl.pdb
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.AssemblyInfoInputs.cache
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.AssemblyInfo.cs
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.csproj.CoreCompileInputs.cache
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.sourcelink.json
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.dll
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\refint\program_tp_mod_7_kpl.dll
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.pdb
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\program_tp_mod_7_kpl.genruntimeconfig.cache
+D:\KULIAH TELKOM\SEMESTER 4\PRAKTIKUM KPL\MODUL 7\tpmodul7_kpl_kelompok_2\tpmodul7_kpl_kelompok_2\program_tp_mod_7_kpl\obj\Debug\net7.0\ref\program_tp_mod_7_kpl.dll
